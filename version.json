@@ -1,9 +1,9 @@
 {
-  "version": "2.2.11",
+  "version": "2.2.12",
   "fecha": "2026-10-17",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Arreglo: se cerraba al dictar o agitar",
-    "Botón Terminar en la notificación"
+    "Arreglo: ya no se cierra al dictar o agitar",
+    "Busca versión nueva cada vez que abrís la app"
   ]
 }
