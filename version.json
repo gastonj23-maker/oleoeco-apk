@@ -1,6 +1,9 @@
 {
-  "version": "2.2.10",
+  "version": "2.2.11",
   "fecha": "2026-10-17",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
-  "notas": ["Recorrido guiado de cuadros", "Agitar y dictar", "Brújula y encontrar falla", "Clima de la finca"]
+  "notas": [
+    "Arreglo: se cerraba al dictar o agitar",
+    "Botón Terminar en la notificación"
+  ]
 }
