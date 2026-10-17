@@ -1,9 +1,8 @@
 {
-  "version": "2.2.13",
+  "version": "2.2.14",
   "fecha": "2026-10-17",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Dictado: prueba con varios español",
-    "Si el dictado falla, no marca nada"
+    "Dictado: usa el servicio de voz que ande en el teléfono"
   ]
 }
