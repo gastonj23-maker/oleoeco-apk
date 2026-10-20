@@ -1,10 +1,9 @@
 {
-  "version": "2.2.15",
+  "version": "2.2.16",
   "fecha": "2026-10-20",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Sugerencia para el fin de semana",
-    "Agua de cada cuadro en el mapa",
-    "Borrar varias tareas juntas"
+    "No se cierra con el teléfono bloqueado durante el cambio guiado",
+    "Si Android la cierra igual, se rearma sola y anota qué pasó"
   ]
 }
