@@ -1,9 +1,15 @@
 {
-  "version": "2.2.16",
-  "fecha": "2026-10-20",
+  "version": "2.2.18",
+  "fecha": "2026-10-21",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "No se cierra con el teléfono bloqueado durante el cambio guiado",
-    "Si Android la cierra igual, se rearma sola y anota qué pasó"
+    "Cambios de operación más seguros: corregir, borrar con deshacer y paradas que descuentan horas",
+    "Guía con íconos en vez de números, \"pegá la vuelta\" y llegada a la válvula más precisa",
+    "Repaso por franjas en el Mapa y parte diario para imprimir (con lo de Marcos)",
+    "Presiones: elegir sector y período, PDF para la carpeta, gotero sospechoso y pozos por operación",
+    "Engrase del Booster 1, paradas del booster a la noche y reloj en todos los tableros",
+    "Buscar una marca: primero en moto, después a pie con pasitos; calibrar la brújula",
+    "Caudal animado, ml a mano, pasar una medición a otro cuadro y el Ir del teclado funciona",
+    "Antes de actualizar se guarda una copia de seguridad sola"
   ]
 }
