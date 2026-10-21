@@ -1,10 +1,10 @@
 {
-  "version": "2.2.20",
+  "version": "2.2.21",
   "fecha": "2026-10-21",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Con el teléfono bloqueado la guía ya no se frena: sigue avisando y marcando las paradas",
-    "GPS de Google (más estable con la pantalla apagada), con el GPS común de respaldo",
-    "Nuevo permiso: ubicación \"todo el tiempo\" (te lo pide al empezar la guía)"
+    "La guía arma el recorrido desde donde estás (y si te desviás, reordena lo que falta)",
+    "Con el teléfono bloqueado la guía ya no se frena",
+    "GPS de Google, más estable con la pantalla apagada"
   ]
 }
