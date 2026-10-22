@@ -1,10 +1,11 @@
 {
-  "version": "2.2.21",
-  "fecha": "2026-10-21",
+  "version": "2.2.22",
+  "fecha": "2026-10-22",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "La guía arma el recorrido desde donde estás (y si te desviás, reordena lo que falta)",
-    "Con el teléfono bloqueado la guía ya no se frena",
-    "GPS de Google, más estable con la pantalla apagada"
+    "Recorrido de cuadros en moto rehecho: te sigue aunque vayas por tu cuenta y ya no recalcula a cada rato",
+    "Parte diario más corto: una línea por tipo de trabajo",
+    "Al llegar a la válvula avisa una sola vez",
+    "Fotos de las marcas desde la galería"
   ]
 }
