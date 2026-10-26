@@ -1,11 +1,11 @@
 {
-  "version": "2.2.22",
-  "fecha": "2026-10-22",
+  "version": "2.2.23",
+  "fecha": "2026-10-26",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Recorrido de cuadros en moto rehecho: te sigue aunque vayas por tu cuenta y ya no recalcula a cada rato",
-    "Parte diario más corto: una línea por tipo de trabajo",
-    "Al llegar a la válvula avisa una sola vez",
-    "Fotos de las marcas desde la galería"
+    "Vuelta en U ahí mismo en el callejón, sin ir hasta el próximo cruce",
+    "\"Pegá la vuelta\" se dice en el momento",
+    "Los cuadros de cada lado se nombran al llegar a cada uno",
+    "Un salto del GPS ya no adelanta el recorrido"
   ]
 }
