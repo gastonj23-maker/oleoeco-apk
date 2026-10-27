@@ -1,11 +1,16 @@
 {
-  "version": "2.2.23",
-  "fecha": "2026-10-26",
+  "version": "2.2.25",
+  "fecha": "2026-10-27",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Vuelta en U ahí mismo en el callejón, sin ir hasta el próximo cruce",
-    "\"Pegá la vuelta\" se dice en el momento",
-    "Los cuadros de cada lado se nombran al llegar a cada uno",
-    "Un salto del GPS ya no adelanta el recorrido"
+    "Gael: tocá la gota (o decí \"Che Gael\") y preguntale lo que quieras de la finca, sin internet",
+    "Marcas \"con agua\" o \"en seco\": te avisa en el recorrido y en el cambio guiado",
+    "Marcas de tamaño fijo, listita cuando hay varias juntas y \"Queda pendiente\" / \"Ya la arreglé\"",
+    "Lo de Marcos de una vez: varios cuadros con cuánto, conectores y causa",
+    "Vista previa del parte con observaciones antes de compartir",
+    "\"Medir\" en el recorrido (caudal, equipos o un cuadro) sin cortarlo",
+    "Mapa: pestaña Ops con las operaciones pintadas, y el 14 corregido",
+    "Horas de más o de menos por cuadro, con aviso para armar una OE",
+    "El cambio guiado avisa el cambio de sector; ya no dice \"en el cruce seguí derecho\""
   ]
 }
