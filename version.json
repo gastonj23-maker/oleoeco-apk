@@ -1,16 +1,13 @@
 {
-  "version": "2.2.25",
-  "fecha": "2026-10-27",
+  "version": "2.2.26",
+  "fecha": "2026-10-29",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Gael: tocá la gota (o decí \"Che Gael\") y preguntale lo que quieras de la finca, sin internet",
-    "Marcas \"con agua\" o \"en seco\": te avisa en el recorrido y en el cambio guiado",
-    "Marcas de tamaño fijo, listita cuando hay varias juntas y \"Queda pendiente\" / \"Ya la arreglé\"",
-    "Lo de Marcos de una vez: varios cuadros con cuánto, conectores y causa",
-    "Vista previa del parte con observaciones antes de compartir",
-    "\"Medir\" en el recorrido (caudal, equipos o un cuadro) sin cortarlo",
-    "Mapa: pestaña Ops con las operaciones pintadas, y el 14 corregido",
-    "Horas de más o de menos por cuadro, con aviso para armar una OE",
-    "El cambio guiado avisa el cambio de sector; ya no dice \"en el cruce seguí derecho\""
+    "Gael entiende mucho mejor: preguntale como le hablarías a una persona",
+    "Sabe dónde estás: en el recorrido te dice cuánto te falta y en cuánto terminás",
+    "Marcas: cuáles podés arreglar, la más cerca, la más vieja, las de un cuadro; las sin dictado aparte",
+    "\"Vamos a empezar el recorrido\": Gael lo arranca por vos",
+    "\"¿Cómo está el 6?\" te da todo el cuadro junto, y podés seguir con \"¿y el 13?\"",
+    "Si no está seguro, te pregunta qué quisiste decir"
   ]
 }
