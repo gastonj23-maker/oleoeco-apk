@@ -1,13 +1,11 @@
 {
-  "version": "2.2.26",
+  "version": "2.2.28",
   "fecha": "2026-10-29",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Gael entiende mucho mejor: preguntale como le hablarías a una persona",
-    "Sabe dónde estás: en el recorrido te dice cuánto te falta y en cuánto terminás",
-    "Marcas: cuáles podés arreglar, la más cerca, la más vieja, las de un cuadro; las sin dictado aparte",
-    "\"Vamos a empezar el recorrido\": Gael lo arranca por vos",
-    "\"¿Cómo está el 6?\" te da todo el cuadro junto, y podés seguir con \"¿y el 13?\"",
-    "Si no está seguro, te pregunta qué quisiste decir"
+    "Prueba de uniformidad de goteros: tocás el cuadro, medís y te da el coeficiente y qué puede estar pasando",
+    "PDF de la prueba para el ingeniero en 5 diseños: simple, mapa de color, visual, técnico y planilla",
+    "Gael con internet: pegá tu clave gratis de Gemini en Ajustes → Gael y entiende casi cualquier cosa",
+    "Lo que Gemini le enseña, Gael lo aprende para contestarlo después sin internet"
   ]
 }
