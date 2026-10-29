@@ -1,8 +1,9 @@
 {
-  "version": "2.2.28",
+  "version": "2.2.29",
   "fecha": "2026-10-29",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
+    "Gael con internet: ahora acepta las claves nuevas de Gemini (las que empiezan con AQ.)",
     "Prueba de uniformidad de goteros: tocás el cuadro, medís y te da el coeficiente y qué puede estar pasando",
     "PDF de la prueba para el ingeniero en 5 diseños: simple, mapa de color, visual, técnico y planilla",
     "Gael con internet: pegá tu clave gratis de Gemini en Ajustes → Gael y entiende casi cualquier cosa",
