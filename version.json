@@ -1,12 +1,13 @@
 {
-  "version": "2.2.30",
+  "version": "2.2.31",
   "fecha": "2026-10-29",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
+    "Prueba de uniformidad: plan de Gabriel. La app marca sola una melga cada ≈ 10, con gotero en la punta y la mitad de cada lado y presión en las puntas, y te lleva de un punto al siguiente",
+    "La prueba compara las puntas contra la mitad de la manguera y dice dónde está la presión más baja",
+    "PDF de la prueba: dice el método usado y la tabla entra mejor con muchos goteros",
     "Presiones del Sector 2 de octubre (las 16 de la prueba con 1 motor) cargadas en el mapa",
     "Gael con internet: ahora acepta las claves nuevas de Gemini (las que empiezan con AQ.)",
-    "Prueba de uniformidad de goteros: tocás el cuadro, medís y te da el coeficiente y qué puede estar pasando",
-    "PDF de la prueba para el ingeniero en 5 diseños: simple, mapa de color, visual, técnico y planilla",
-    "Gael con internet: pegá tu clave gratis de Gemini en Ajustes → Gael y entiende casi cualquier cosa"
+    "Prueba de uniformidad de goteros: tocás el cuadro, medís y te da el coeficiente y qué puede estar pasando"
   ]
 }
