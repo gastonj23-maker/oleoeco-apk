@@ -1,13 +1,13 @@
 {
-  "version": "2.2.31",
-  "fecha": "2026-10-29",
+  "version": "2.2.32",
+  "fecha": "2026-10-30",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Prueba de uniformidad: plan de Gabriel. La app marca sola una melga cada ≈ 10, con gotero en la punta y la mitad de cada lado y presión en las puntas, y te lleva de un punto al siguiente",
-    "La prueba compara las puntas contra la mitad de la manguera y dice dónde está la presión más baja",
-    "PDF de la prueba: dice el método usado y la tabla entra mejor con muchos goteros",
-    "Presiones del Sector 2 de octubre (las 16 de la prueba con 1 motor) cargadas en el mapa",
-    "Gael con internet: ahora acepta las claves nuevas de Gemini (las que empiezan con AQ.)",
-    "Prueba de uniformidad de goteros: tocás el cuadro, medís y te da el coeficiente y qué puede estar pasando"
+    "Gael y las voces del GPS le hablan de usted (se cambia en Ajustes → Gael)",
+    "Gael entiende \"vamos a pasar el S2 a la 3\" y \"guiame\": arma el cambio y lo guía con el GPS",
+    "Gemini ya no inventa el orden del cambio, y puede preparar cargas que usted confirma con un botón",
+    "Con señal floja Gemini espera como mucho 6 segundos (con Cancelar) y si no, contesta Gael",
+    "Prueba de uniformidad: botón Tapado (0 ml), cuenta como cero",
+    "Para hoy con las marcas resumidas, aviso del GPS solo si falla y horarios de las paradas del booster en Ajustes"
   ]
 }
