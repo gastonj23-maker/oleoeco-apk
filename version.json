@@ -1,13 +1,13 @@
 {
-  "version": "2.2.32",
+  "version": "2.2.33",
   "fecha": "2026-10-30",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
+    "Si Android cierra la app, no se pierde lo que estaba cargando",
+    "Revisión de válvulas y de tableros: cada marca se guarda al tocarla",
+    "En todos los formularios lo escrito queda guardado y vuelve al abrirlo de nuevo",
+    "Al abrir, avisa si la app se cerró con algo abierto",
     "Gael y las voces del GPS le hablan de usted (se cambia en Ajustes → Gael)",
-    "Gael entiende \"vamos a pasar el S2 a la 3\" y \"guiame\": arma el cambio y lo guía con el GPS",
-    "Gemini ya no inventa el orden del cambio, y puede preparar cargas que usted confirma con un botón",
-    "Con señal floja Gemini espera como mucho 6 segundos (con Cancelar) y si no, contesta Gael",
-    "Prueba de uniformidad: botón Tapado (0 ml), cuenta como cero",
-    "Para hoy con las marcas resumidas, aviso del GPS solo si falla y horarios de las paradas del booster en Ajustes"
+    "Gael entiende \"vamos a pasar el S2 a la 3\" y \"guiame\": arma el cambio y lo guía con el GPS"
   ]
 }
