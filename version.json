@@ -1,12 +1,12 @@
 {
-  "version": "2.2.35",
+  "version": "2.2.36",
   "fecha": "2026-10-30",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Arreglo: las clases ya se graban (antes decía que la voz no pudo grabar)",
-    "Arreglo: ya no dice \"sin internet\" teniendo WiFi, y baja los podcasts y libros",
-    "Nuevo: elegir la voz de las clases y noticias (del teléfono o de Gemini), con botón Probar",
-    "Cada audio tiene «···»: escuchar desde el principio, volver a grabar, marcar como escuchado, borrar",
-    "Sigue lo de la 2.2.34: Para escuchar, orden del finde para WhatsApp, guiado prolijo, mapa nuevo, fecha en tareas"
+    "Para escuchar: la pantalla ya no parpadea mientras suena algo",
+    "Podcasts: primero los que están en castellano; los de otros idiomas, aparte",
+    "Libros: recomendados para empezar, con un toque para agregarlos",
+    "La voz se elige también desde el «···» de cada clase o noticia y abajo de la lista en Todo",
+    "Ya no queda el aviso viejo de \"sin internet\""
   ]
 }
