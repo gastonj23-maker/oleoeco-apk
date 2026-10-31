@@ -1,15 +1,12 @@
 {
-  "version": "2.2.34",
+  "version": "2.2.35",
   "fecha": "2026-10-30",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Nuevo: Para escuchar (botón en Inicio y auriculares en el cambio guiado y el recorrido): podcasts, audiolibros, clases de ansiedad y timidez y noticias del día, para oír sin internet",
-    "Se baja todo solo con WiFi; lo escuchado se borra al otro día salvo lo que tenga estrella",
-    "Gael maneja el audio: \"pausá\", \"seguí\", \"adelantá un minuto\", \"poné las noticias\"",
-    "Orden del finde como texto para mandar por WhatsApp",
-    "Los cambios de operación cuentan como trabajo en el parte, con el camino del guiado",
-    "Cambio guiado más prolijo: camino azul con flechas y lista plegada",
-    "Mapa de riego con estilo nuevo, zoom que no se pierde, marcas con número corrido",
-    "Nueva tarea con fecha (para cargar días atrás) y la música vuelve a subir después de la voz"
+    "Arreglo: las clases ya se graban (antes decía que la voz no pudo grabar)",
+    "Arreglo: ya no dice \"sin internet\" teniendo WiFi, y baja los podcasts y libros",
+    "Nuevo: elegir la voz de las clases y noticias (del teléfono o de Gemini), con botón Probar",
+    "Cada audio tiene «···»: escuchar desde el principio, volver a grabar, marcar como escuchado, borrar",
+    "Sigue lo de la 2.2.34: Para escuchar, orden del finde para WhatsApp, guiado prolijo, mapa nuevo, fecha en tareas"
   ]
 }
