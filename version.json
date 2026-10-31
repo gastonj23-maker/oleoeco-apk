@@ -1,13 +1,15 @@
 {
-  "version": "2.2.33",
+  "version": "2.2.34",
   "fecha": "2026-10-30",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Si Android cierra la app, no se pierde lo que estaba cargando",
-    "Revisión de válvulas y de tableros: cada marca se guarda al tocarla",
-    "En todos los formularios lo escrito queda guardado y vuelve al abrirlo de nuevo",
-    "Al abrir, avisa si la app se cerró con algo abierto",
-    "Gael y las voces del GPS le hablan de usted (se cambia en Ajustes → Gael)",
-    "Gael entiende \"vamos a pasar el S2 a la 3\" y \"guiame\": arma el cambio y lo guía con el GPS"
+    "Nuevo: Para escuchar (botón en Inicio y auriculares en el cambio guiado y el recorrido): podcasts, audiolibros, clases de ansiedad y timidez y noticias del día, para oír sin internet",
+    "Se baja todo solo con WiFi; lo escuchado se borra al otro día salvo lo que tenga estrella",
+    "Gael maneja el audio: \"pausá\", \"seguí\", \"adelantá un minuto\", \"poné las noticias\"",
+    "Orden del finde como texto para mandar por WhatsApp",
+    "Los cambios de operación cuentan como trabajo en el parte, con el camino del guiado",
+    "Cambio guiado más prolijo: camino azul con flechas y lista plegada",
+    "Mapa de riego con estilo nuevo, zoom que no se pierde, marcas con número corrido",
+    "Nueva tarea con fecha (para cargar días atrás) y la música vuelve a subir después de la voz"
   ]
 }
