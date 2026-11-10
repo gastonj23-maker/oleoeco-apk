@@ -1,12 +1,12 @@
 {
-  "version": "2.2.36",
-  "fecha": "2026-10-30",
+  "version": "2.2.37",
+  "fecha": "2026-11-10",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Para escuchar: la pantalla ya no parpadea mientras suena algo",
-    "Podcasts: primero los que están en castellano; los de otros idiomas, aparte",
-    "Libros: recomendados para empezar, con un toque para agregarlos",
-    "La voz se elige también desde el «···» de cada clase o noticia y abajo de la lista en Todo",
-    "Ya no queda el aviso viejo de \"sin internet\""
+    "Gael entiende mucho mejor cómo se habla: «qué está largado», «a qué le estamos dando agua», «qué hay prendido», «pasé el dos a la cuatro»",
+    "Entiende lo que el dictado escribe mal: «yover», «balbula», «boster», «dose»",
+    "Explica las fallas del arrancador: decile «saltó OHF» o «el pozo no arranca» y te dice qué mirar",
+    "«Anotame que el 12 del 2 dio 0,9 kilos» carga la presión; «Pedro pasó el sector uno a la 2 ayer» carga el cambio",
+    "Si no entiende, pregunta o lo dice: ya no contesta cualquier cosa, ni inventa precios o teléfonos"
   ]
 }
