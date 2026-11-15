@@ -1,13 +1,13 @@
 {
-  "version": "2.2.39",
+  "version": "2.2.40",
   "fecha": "2026-11-15",
   "apk": "https://github.com/gastonj23-maker/oleoeco-apk/raw/main/OLEOECO.apk",
   "notas": [
-    "Más vida: las pantallas entran desde el lado que corresponde, la barra de abajo se desliza, las tarjetas aparecen en cascada y los números suben solos",
-    "Avisos de tormenta del Servicio Meteorológico: el teléfono avisa con sonido aunque la app esté cerrada. Entrá a Clima y tocá «Probar cómo suena»",
-    "Para escuchar: se fueron los Libros y llegó Aprender, con lecciones para saberse de memoria los cuadros de cada operación. Decile a Gael «tomame examen»",
-    "Recorrido guiado: la vuelta más corta, sin pasar dos veces de más ni perder tramos al poner música",
-    "Cambio guiado en el Sector 1: deja abrir un cuadro y cerrar dos seguidos si ahorra vueltas",
-    "Gael: debajo de cada respuesta hay «Contestó mal»; en sus ajustes se manda todo junto, sin capturas"
+    "Más sencilla: en Inicio los avisos van una sola vez, hay menos botones y cada pantalla tiene un «?» que explica para qué sirve",
+    "Marcas: Gael te las muestra en una lista; tocás una y el mapa te lleva a ella, o «Guiarme» te guía",
+    "Día: todo lo de las horas en un solo botón, «Horas de riego», y sin códigos raros",
+    "Cambio guiado: ahora dice qué es cada círculo (+ abrir, − cerrar)",
+    "Ajustes ordenados: lo de todos los días arriba y «La finca» plegada",
+    "Preguntale a Gael «¿para qué sirve esto?» en cualquier pantalla"
   ]
 }
